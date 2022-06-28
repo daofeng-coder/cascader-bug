@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "nutui-test",
+  "description": "级联选择器异常测试",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
